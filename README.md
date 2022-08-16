@@ -4,7 +4,7 @@ Authors: Yupei Zhang~\IEEEmembership{IEEE Member}, Yifei Wang, Yuxin Li, Yunan X
 
 ## Experiments
 
-![Image text](figure/fig4.pdf)
+![Image text](https://github.com/ypzhaang/FDRL/blob/main/figure/fig4.pdf)
 
 ## Dependencies
 
