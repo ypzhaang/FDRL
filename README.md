@@ -2,7 +2,9 @@
 
 Authors: Yupei Zhang~\IEEEmembership{IEEE Member}, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang Wei, Shuhui Liu and Xuequn Shang
 
-##
+## Experiments
+
+<img src="figure/fig4.pdf" width="500" height="360" />
 
 ## Dependencies
 
