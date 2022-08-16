@@ -1,6 +1,6 @@
 # Federated Discriminative Representation Learning
 
-Authors: Yupei Zhang~\IEEEmembership{IEEE Member}, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang Wei, Shuhui Liu and Xuequn Shang
+Authors: Yupei Zhang IEEE Member, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang Wei, Shuhui Liu and Xuequn Shang
 
 ## Experiments
 
