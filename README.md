@@ -6,7 +6,11 @@ Authors: Yupei Zhang IEEE Member, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang W
 
 We use four public datasets: MNIST, Fashion-MNIST, CIFAR10 and CIFAR100
 
-<img width="400px" src="https://github.com/ypzhaang/FDRL/blob/main/dataset.jpg">
+<img width="800px" src="https://github.com/ypzhaang/FDRL/blob/main/figure/dataset.jpg">
+
+Here, we show 2D scatter plots with features：
+
+<img width="800px" src="https://github.com/ypzhaang/FDRL/blob/main/figure/scatter.jpg">
 
 ## Dependencies
 
