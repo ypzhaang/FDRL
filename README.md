@@ -4,7 +4,9 @@ Authors: Yupei Zhang IEEE Member, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang W
 
 ## Experiments
 
-![img](https://github.com/ypzhaang/FDRL/blob/main/figure/fig4.pdf)
+We use four public datasets: MNIST, Fashion-MNIST, CIFAR10 and CIFAR100
+
+<img width="400px" src="https://github.com/ypzhaang/FDRL/blob/main/dataset.jpg">
 
 ## Dependencies
 
