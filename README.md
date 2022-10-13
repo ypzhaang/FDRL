@@ -6,7 +6,16 @@ Authors: Yupei Zhang IEEE Member, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang W
 
 See https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf
 
-<img width="600px" src="https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf">
+<img width="800px" src="https://github.com/ypzhaang/FDRL/blob/main/figure/proof1.png">
+
+<img width="800px" src="https://github.com/ypzhaang/FDRL/blob/main/figure/proof2.png">
+
+<img width="800px" src="https://github.com/ypzhaang/FDRL/blob/main/figure/proof3.png">
+
+<img width="800px" src="https://github.com/ypzhaang/FDRL/blob/main/figure/proof4.png">
+
+<img width="800px" src="https://github.com/ypzhaang/FDRL/blob/main/figure/proof5.png">
+
 ## Experiments
 
 We use four public datasets: MNIST, Fashion-MNIST, CIFAR10 and CIFAR100
