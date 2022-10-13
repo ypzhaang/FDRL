@@ -2,7 +2,8 @@
 
 Authors: Yupei Zhang IEEE Member, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang Wei, Shuhui Liu and Xuequn Shang
 https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf
-![contents](https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf)
+
+<img width="600px" src="https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf">
 ## Experiments
 
 We use four public datasets: MNIST, Fashion-MNIST, CIFAR10 and CIFAR100
