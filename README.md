@@ -1,7 +1,10 @@
 # Federated Discriminative Representation Learning
 
 Authors: Yupei Zhang IEEE Member, Yifei Wang, Yuxin Li, Yunan Xu, Shuangshuang Wei, Shuhui Liu and Xuequn Shang
-https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf
+
+## Convergence Analysis
+
+See https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf
 
 <img width="600px" src="https://github.com/ypzhaang/FDRL/blob/main/proof_of_convergence.pdf">
 ## Experiments
